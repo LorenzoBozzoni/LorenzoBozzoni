@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Contact
 - Email: lorenzo dot bozzoni at mail dot polimi dot it
-- LinkedIn: [[Your LinkedIn profile]](https://www.linkedin.com/in/lorenzo-bozzoni-6681371b9/)
+- LinkedIn: [[Lorenzo Bozzoni]](https://www.linkedin.com/in/lorenzo-bozzoni-6681371b9/)
 <!--
 - Website: [Link to your personal website, if available]
 
