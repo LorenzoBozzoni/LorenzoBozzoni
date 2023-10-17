@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lorenzo Bozzoni
-### [Your Brief Description or Personal Motto]
-
 👋 Hi, I'm Lorenzo! I'm a artificial intelligence student at Polimi.  
 <!--
 ## Recent Projects
@@ -33,11 +30,10 @@ Here are some ideas to get you started:
 - LinkedIn: [[Your LinkedIn profile]](https://www.linkedin.com/in/lorenzo-bozzoni-6681371b9/)
 <!--
 - Website: [Link to your personal website, if available]
--->
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoBozzoni&show_icons=true&hide_title=true&count_private=true)
 
-<!--
 Add more sections or details about your projects, work experience, education, etc.
 -->
 
