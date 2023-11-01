@@ -7,6 +7,10 @@ Until now, I've followed the following courses:
 - Advanced computer architectures
 - Mechanics (mandatory course)
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/LorenzoBozzoni/LorenzoBozzoni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 
 ### Some tecnologies I like:
