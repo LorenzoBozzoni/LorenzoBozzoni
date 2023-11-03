@@ -1,5 +1,5 @@
 # Hi! 👋
-My name is Lorenzo, I'm a **Master of Science student in Computer Science and Engineering at [Politecnico di Milano](www.polimi.it)**. In particular I'm attending the Data Science curriculum. 
+My name is Lorenzo, I'm a **Master of Science student in Computer Science and Engineering at Politecnico di Milano. In particular I'm attending the Data Science curriculum. 
 Until now, I've followed the following courses:
 - Machine learning
 - Model identification and data analysis
