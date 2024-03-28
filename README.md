@@ -1,11 +1,13 @@
 # Hi! 👋
 My name is Lorenzo, I'm a Master of Science student in Computer Science and Engineering at Politecnico di Milano. In particular I'm attending the Data Science curriculum. 
-Until now, I've followed the following courses:
+Some relevant courses I've followed so far:
 - Machine learning
 - Model identification and data analysis
 - Computing infrastructures
 - Advanced computer architectures
-- Mechanics (mandatory course)
+- Foundation of artificial intelligence
+- Numerical analysis for machine learning
+- Software engineering 2
 
 
 ### Some tecnologies I like:
