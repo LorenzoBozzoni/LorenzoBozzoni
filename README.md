@@ -16,4 +16,4 @@ Some relevant courses I've followed so far:
 I also really enjoy plotting and visualizing mathematical models by means of Matplotlib, Pandas, Seaborn and Numpy.
 
 ### Get in touch:
-Feel free to connect on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://github.com/LorenzoBozzoni](https://www.linkedin.com/in/lorenzo-bozzoni-6681371b9/)) or to send me an email to `lorenzo [dot] bozzoni [at] gmail [dot] com`.
+Feel free to connect on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-bozzoni-6681371b9/) or to send me an email to `lorenzo [dot] bozzoni [at] gmail [dot] com`.
